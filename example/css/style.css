@@ -1,0 +1,19 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	max-width: 920px;
+	padding: 0 10%;
+	margin: 40px auto;
+}
+
+#content {
+	line-height: 1.7em;
+}
+
+#readTimeContainer {
+	color: gray;
+}
+
+.readTime {
+	font-style: italic;
+}
