@@ -20,7 +20,7 @@ An example html file would look something like this:
 ```html
 <html>
 <head>
-    <title> ReadTime jQuery Plugin </title>
+  <title> ReadTime jQuery Plugin </title>
   <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
   <link href='css/style.css' rel='stylesheet' type='text/css'>
 </head>
